@@ -1,2 +1,2 @@
 # DataScienceWithPython
-Data Science using pandas and numpy :)
+Data Science using Python :)
